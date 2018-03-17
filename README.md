@@ -1,4 +1,4 @@
-# LACH login 🔐🎨
+# LACH Login 🔐🎨
 A basic wordpress plugin that styles the login screen to my preference.
 
 
